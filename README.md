@@ -84,10 +84,11 @@ Awarded an Internship Appreciation Letter for successfully completing the projec
 > "Phishing Detection System using URL Analysis"
 
 
-Author
- Zainab Unisa Naazneen
- Information Technology Student
- Interested in Cybersecurity & Development
 
  OUTPUT:
- 
+ for safe url:
+ <img width="1642" height="1079" alt="Screenshot 2026-04-11 002242" src="https://github.com/user-attachments/assets/7e512309-ce0e-49ca-8b9d-e9a1d9d13175" />
+
+
+ for phishing url:
+<img width="1473" height="1072" alt="Screenshot 2026-04-11 002650" src="https://github.com/user-attachments/assets/39edf216-4523-437f-8608-369c8b0fcd2d" />
